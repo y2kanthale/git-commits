@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "strictNullChecks": true,
+        "outFile": "./out/git-commits.js",
+        "lib": ["ES2017", "DOM"],
+        "target": "ES2017",
+        "removeComments": true
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
