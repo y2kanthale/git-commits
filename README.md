@@ -16,14 +16,6 @@ Include `git-commits.js` in your html `head` tag:
 ```html
 <script type="text/javascript" src="../src/git-commits.js"></script>
 ```
-
-For older releases, use the follow snippet instead:
-```html
-<script type="text/javascript" src="
-../src/git-commits.js"></script>
-```
-Please remember to replace `VERSION` with the version number you are using.
-
 ### Usage
 
 To use Github Stats, add the following JavaScript to your website:
